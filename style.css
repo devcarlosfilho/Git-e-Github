@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+}
+
+section{
+    position: absolute;
+    color: white;
+    font-size: 35px;
+    font-weight: bolder;
+    left: 50%;
+    top : 50%;
+}
